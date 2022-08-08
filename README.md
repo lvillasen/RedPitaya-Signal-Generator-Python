@@ -1,4 +1,4 @@
-# Python scripts to control the Arbitrary Signal Generator module on a RedPitaya board
+# Python Scripts to Control the Arbitrary Signal Generator Module on a RedPitaya Board
 
 The scripts were tested on 
 
