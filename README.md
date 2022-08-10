@@ -13,7 +13,7 @@ These scripts use the *periphery module* which is already installed in the lates
 
 ## Installation
 
-The simplest way to install the code is to clone the repository and copy the jupyter notebook called *ASG-Elephant.ipynb* to the directory /home/jupyter on the RedPitaya 
+The simplest way to install the code is to clone the repository and copy the jupyter notebook called *ASG_Elephant.ipynb* to the directory /home/jupyter on the RedPitaya 
 
 Then you can open it through the *Jupyter Python Programming* page from the *Development* page of the RedPitaya web page menu.
 
