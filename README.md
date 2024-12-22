@@ -7,7 +7,11 @@ The scripts were tested on
 
 of the Red Pitaya GNU/Linux Ecosystem using Python 3.5.
 
-These scripts use the *periphery module* which is already installed in the latest releases of the RedPytaya ecosystem.  
+These scripts use the *periphery module* which is already installed in the latest releases of the RedPytaya ecosystem and the official memory map.
+
+
+#### Memory Map: https://redpitaya.readthedocs.io/en/latest/developerGuide/software/build/fpga/regset/in_dev/v0.94.html
+
 
 ### HW Configuration
 Connect IN1 to OUT1 on your RedPitaya board and the range jumper on IN1 to LV. 
