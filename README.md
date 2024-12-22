@@ -18,7 +18,7 @@ Connect IN1 to OUT1 on your RedPitaya board and the range jumper on IN1 to LV.
 
 ### Installation
 
-The simplest way to install the code is to clone the repository and copy the jupyter notebook called *ASG_Elephant.ipynb* to the directory /home/jupyter on the RedPitaya 
+The simplest way to install the code is to clone the repository on the directory /home/jupyter on the RedPitaya 
 
 Then you can open it through the *Jupyter Python Programming* page from the *Development* page of the RedPitaya web page menu.
 
