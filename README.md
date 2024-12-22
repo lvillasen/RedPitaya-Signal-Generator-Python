@@ -9,10 +9,8 @@ of the Red Pitaya GNU/Linux Ecosystem using Python 3.5.
 
 These scripts use the *periphery module* which is already installed in the latest releases of the RedPytaya ecosystem.  
 
-# HW Configuration
-Connect IN1 to OUT1 on your RedPitaya board and the range jumper on IN1 to LV. If the periphery module is nor installed you may install it with the !pip install periphery command line on a new cell.
-
-We will make extensive use the RedPitaya memory map, it may be consulted here:
+## HW Configuration
+Connect IN1 to OUT1 on your RedPitaya board and the range jumper on IN1 to LV. 
 
 ## Installation
 
